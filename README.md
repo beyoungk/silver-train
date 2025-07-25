@@ -17,6 +17,7 @@ Each project includes working code, sample data, and a write-up explaining what 
 [MitoPower - ATP Tracker](./projects/02_MitoPower_ATP_Tracker) /*Simulates mitochondrial ATP output under various metabolic conditions.*/
 [Heart Rate Monitor](./projects/03_HeartRate_Arduino) /*Reads heart rate from Arduino, plots and analyzes HRV.*/
 [Cancer Classifier](./projects/04_ML_CancerClassifer) /*Machine Learning model to classify cancer data.*/
+[CRISPR_Design_Explainer](./projects/05_CRISPR_Design_Explainer) /*Simulator to explain how CRISPR works.*/
 
 ## Certificates
 
